@@ -18,4 +18,4 @@
 
 ### Resutados
 
-![Alt text](./passwrd_phishing "Resultado em imagem")
+![Resultado em imagem](./passwrdphishing "Resultado em imagem")
